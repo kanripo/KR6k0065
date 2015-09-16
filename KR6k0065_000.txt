@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說優婆塞五戒相經
+#+DATE: 2015-08-30 20:43:37.654631
+#+PROPERTY: JUAN 0
